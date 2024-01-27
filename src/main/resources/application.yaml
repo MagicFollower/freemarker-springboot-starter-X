@@ -1,0 +1,8 @@
+spring:
+  freemarker:
+    template-loader-path: classpath:/ftl/  # 默认classpath:/templates/
+    #suffix: .ftl  # 这里不需要额外指定，注入Configuration可手动指定文件名
+    #enabled: true
+    #cache: true
+    #charset: UTF-8
+    #check-template-location: true

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestHistoryConfig">
+    <option name="historyList">
+      <list>
+        <ResponseHistory>
+          <option name="className" value="org.example.controller.UserController" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="freemarker-springboot-starter-X" />
+          <option name="method" value="test01" />
+          <option name="methodType" value="POST" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="org.example.controller.UserController" />
+              <option name="method" value="test01" />
+              <option name="methodDescription" value="test01" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/user/test01" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="{&quot;status&quot;:{},&quot;headers&quot;:{},&quot;body&quot;:{}}" />
+              <option name="url" value="/user/test01" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/user/test01&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.2.1.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/user/test01" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="org.example.controller.UserController" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="freemarker-springboot-starter-X" />
+          <option name="method" value="test01" />
+          <option name="methodType" value="POST" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="org.example.controller.UserController" />
+              <option name="method" value="test01" />
+              <option name="methodDescription" value="test01" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/user/test01" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="{&quot;status&quot;:{},&quot;headers&quot;:{},&quot;body&quot;:{}}" />
+              <option name="url" value="/user/test01" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/user/test01&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.2.1.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/user/test01" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="org.example.controller.UserController" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="freemarker-springboot-starter-X" />
+          <option name="method" value="test01" />
+          <option name="methodType" value="POST" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="org.example.controller.UserController" />
+              <option name="method" value="test01" />
+              <option name="methodDescription" value="test01" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/user/test01" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="{&quot;status&quot;:{},&quot;headers&quot;:{},&quot;body&quot;:{}}" />
+              <option name="url" value="/user/test01" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/user/test01&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.2.1.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/user/test01" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="org.example.controller.UserController" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="freemarker-springboot-starter-X" />
+          <option name="method" value="test01" />
+          <option name="methodType" value="POST" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="org.example.controller.UserController" />
+              <option name="method" value="test01" />
+              <option name="methodDescription" value="test01" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/user/test01" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="{&quot;status&quot;:{},&quot;headers&quot;:{},&quot;body&quot;:{}}" />
+              <option name="url" value="/user/test01" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/user/test01&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.2.1.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/user/test01" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="org.example.controller.UserController" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="freemarker-springboot-starter-X" />
+          <option name="method" value="test01" />
+          <option name="methodType" value="POST" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="org.example.controller.UserController" />
+              <option name="method" value="test01" />
+              <option name="methodDescription" value="test01" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/user/test01" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="{&quot;status&quot;:{},&quot;headers&quot;:{},&quot;body&quot;:{}}" />
+              <option name="url" value="/user/test01" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/user/test01&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.2.1.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/user/test01" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="org.example.controller.UserController" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="freemarker-springboot-starter-X" />
+          <option name="method" value="test01" />
+          <option name="methodType" value="POST" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="org.example.controller.UserController" />
+              <option name="method" value="test01" />
+              <option name="methodDescription" value="test01" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/user/test01" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="{&quot;status&quot;:{},&quot;headers&quot;:{},&quot;body&quot;:{}}" />
+              <option name="url" value="/user/test01" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/user/test01&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.2.1.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/user/test01" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="org.example.controller.UserController" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="freemarker-springboot-starter-X" />
+          <option name="method" value="test01" />
+          <option name="methodType" value="POST" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="org.example.controller.UserController" />
+              <option name="method" value="test01" />
+              <option name="methodDescription" value="test01" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/user/test01" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="{&quot;status&quot;:{},&quot;headers&quot;:{},&quot;body&quot;:{}}" />
+              <option name="url" value="/user/test01" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/user/test01&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.2.1.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/user/test01" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="org.example.controller.UserController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="freemarker-springboot-starter-X" />
+          <option name="method" value="test01" />
+          <option name="methodType" value="POST" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="org.example.controller.UserController" />
+              <option name="method" value="test01" />
+              <option name="methodDescription" value="test01" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/user/test01" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="{&quot;status&quot;:{},&quot;headers&quot;:{},&quot;body&quot;:{}}" />
+              <option name="url" value="/user/test01" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/user/test01&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.2.1.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="response" value="user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;" />
+          <option name="url" value="/user/test01" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="org.example.controller.UserController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="freemarker-springboot-starter-X" />
+          <option name="method" value="test01" />
+          <option name="methodType" value="POST" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="org.example.controller.UserController" />
+              <option name="method" value="test01" />
+              <option name="methodDescription" value="test01" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/user/test01" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="{&quot;status&quot;:{},&quot;headers&quot;:{},&quot;body&quot;:{}}" />
+              <option name="url" value="/user/test01" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/user/test01&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.2.1.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="response" value="user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;" />
+          <option name="url" value="/user/test01" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="org.example.controller.UserController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="freemarker-springboot-starter-X" />
+          <option name="method" value="test01" />
+          <option name="methodType" value="POST" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="org.example.controller.UserController" />
+              <option name="method" value="test01" />
+              <option name="methodDescription" value="test01" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/user/test01" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="{&quot;status&quot;:{},&quot;headers&quot;:{},&quot;body&quot;:{}}" />
+              <option name="url" value="/user/test01" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/user/test01&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.2.1.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="response" value="user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;user.name,user.age\n&#13;&#10;" />
+          <option name="url" value="/user/test01" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="org.example.controller.UserController" />
+          <option name="code" value="500" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="freemarker-springboot-starter-X" />
+          <option name="method" value="test01" />
+          <option name="methodType" value="POST" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="org.example.controller.UserController" />
+              <option name="method" value="test01" />
+              <option name="methodDescription" value="test01" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/user/test01" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="{&quot;status&quot;:{},&quot;headers&quot;:{},&quot;body&quot;:{}}" />
+              <option name="url" value="/user/test01" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/user/test01&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.2.1.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="response" value="{&quot;timestamp&quot;:&quot;2024-01-27T13:44:08.749+00:00&quot;,&quot;status&quot;:500,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;path&quot;:&quot;/user/test01&quot;}" />
+          <option name="url" value="/user/test01" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="org.example.controller.UserController" />
+          <option name="code" value="500" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="freemarker-springboot-starter-X" />
+          <option name="method" value="test01" />
+          <option name="methodType" value="POST" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="org.example.controller.UserController" />
+              <option name="method" value="test01" />
+              <option name="methodDescription" value="test01" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/user/test01" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="{&quot;status&quot;:{},&quot;headers&quot;:{},&quot;body&quot;:{}}" />
+              <option name="url" value="/user/test01" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/user/test01&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.2.1.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="response" value="{&quot;timestamp&quot;:&quot;2024-01-27T13:43:32.111+00:00&quot;,&quot;status&quot;:500,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;path&quot;:&quot;/user/test01&quot;}" />
+          <option name="url" value="/user/test01" />
+        </ResponseHistory>
+      </list>
+    </option>
+  </component>
+</project>
