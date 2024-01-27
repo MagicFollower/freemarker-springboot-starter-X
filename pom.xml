@@ -49,6 +49,13 @@
             <version>1.18.30</version>
             <scope>provided</scope>
         </dependency>
+
+        <!-- 测试evictor缓存定时驱逐组件 -->
+        <dependency>
+            <groupId>com.stoyanr</groupId>
+            <artifactId>evictor</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
 
 </project>
